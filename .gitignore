@@ -1,0 +1,13 @@
+# Simple transformers Stuff
+cache_dir
+outputs
+runs
+
+# PyCharm Stuff
+.idea
+
+# Virtual Environments
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints

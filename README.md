@@ -10,3 +10,6 @@ sistemas de software**_.
 * [Uso da plataforma Google Colab](TutorialGoogleColab.pdf)
 * [Análise Exploratória de Dados](ExploratoryDataAnalysis.ipynb)
 * [Classificação binária (Ham or Spam)](BinaryClassification.ipynb)
+
+Observação: o dataset utilizado neste tutorial foi baixado gratuitamente no site
+da Unicamp: [Spam Ham Collection](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)

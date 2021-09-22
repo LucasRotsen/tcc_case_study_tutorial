@@ -1,4 +1,4 @@
-# TCC Case Study Tutorial
+# TCC Experiment Tutorial
 <hr>
 
 Este é um tutorial para execução das tarefas propostas no trabalho _**Análise da eficácia 

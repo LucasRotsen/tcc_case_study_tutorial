@@ -13,5 +13,5 @@ Observação: o dataset utilizado neste tutorial foi baixado gratuitamente no si
 da Unicamp: [Spam Ham Collection](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
 ### Links úteis
-* [Slide de apresentação das práticas primárias] https://docs.google.com/presentation/d/1Lfi8uzks0oQfzP5R-oshptx7a8_x9LGgjpBfxLY7GVM/edit?usp=sharing
-* [Quiz] https://forms.gle/Scy1ZcQeMv6JrkeL8
+* [Slide de apresentação das práticas primárias] (https://docs.google.com/presentation/d/1Lfi8uzks0oQfzP5R-oshptx7a8_x9LGgjpBfxLY7GVM/edit?usp=sharing)
+* [Quiz] (https://forms.gle/Scy1ZcQeMv6JrkeL8)

@@ -13,6 +13,9 @@ sistemas de software**_.
 * [Tutorial de Análise Exploratória de Dados](ExploratoryDataAnalysis.ipynb)
 * [Tutorial de Classificação Binária de Mensagens SMS](BinaryClassification.ipynb)
 
+### Dataset
+* [Spam Ham Collection](data/SMSSpamCollection.txt)
+
 Observação: o dataset utilizado neste tutorial foi baixado gratuitamente no site
 da Unicamp: [Spam Ham Collection](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 

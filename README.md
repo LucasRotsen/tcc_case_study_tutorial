@@ -9,6 +9,10 @@ sistemas de software**_.
 * [Básicos da linguagem Python](basics/notebooks/PythonBasics.ipynb)
 * [Uso da plataforma Google Colab](TutorialGoogleColab.pdf)
 
+### Notebooks Pré-organizados
+* [Tutorial de Análise Exploratória de Dados](ExploratoryDataAnalysis.ipynb)
+* [Tutorial de Classificação Binária de Mensagens SMS](BinaryClassification.ipynb)
+
 Observação: o dataset utilizado neste tutorial foi baixado gratuitamente no site
 da Unicamp: [Spam Ham Collection](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 

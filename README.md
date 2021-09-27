@@ -7,6 +7,7 @@ sistemas de software**_.
 
 ### Tutoriais:
 * [Básicos da linguagem Python](basics/notebooks/PythonBasics.ipynb)
+* [Testes unitários em notebooks](basics/notebooks/DataScienceTestingBasics.ipynb)
 * [Uso da plataforma Google Colab](TutorialGoogleColab.pdf)
 
 ### Notebooks Pré-organizados

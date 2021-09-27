@@ -1,3 +1,6 @@
+# Caches
+.pytest_cache
+
 # Simple transformers Stuff
 cache_dir
 outputs
@@ -14,7 +17,6 @@ runs
 
 # Files that aren't finished yet
 basics/notebooks/PandasBasics.ipynb
-basics/notebooks/DataScienceTestingBasics.ipynb
 
 # Files that will be used to guide the presentation
 \[Presentation\] ExploratoryDataAnalysis.ipynb

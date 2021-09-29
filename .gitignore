@@ -21,7 +21,3 @@ basics/notebooks/PandasBasics.ipynb
 # Files that will be used to guide the presentation
 \[Presentation\] ExploratoryDataAnalysis.ipynb
 \[Presentation\] BinaryClassification.ipynb
-
-# Files that will be revealed after the training
-\[Gabarito\] ExploratoryDataAnalysis.ipynb
-\[Gabarito\] BinaryClassification.ipynb

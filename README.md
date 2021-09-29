@@ -11,10 +11,14 @@ sistemas de software**_.
 * [Uso da plataforma Google Colab](TutorialGoogleColab.pdf)
 
 ### Notebooks Pré-organizados
-* [Tutorial de Análise Exploratória de Dados](ExploratoryDataAnalysis.ipynb)
-* [Tutorial de Classificação Binária de Mensagens SMS](BinaryClassification.ipynb)
+* [Template Análise Exploratória de Dados](Template_ExploratoryDataAnalysis.ipynb)
+* [Template de Classificação Binária de Mensagens SMS](Template_BinaryClassification.ipynb)
 
-### Dataset
+### Gabaritos das atividades
+* [Gabarito de Análise Exploratória de Dados](Gabarito_ExploratoryDataAnalysis.ipynb)
+* [Gabarito de Classificação Binária de Mensagens SMS](Gabarito_BinaryClassification.ipynb)
+
+### Dataset pré-processado
 * [Spam Ham Collection](data/SMSSpamCollection.txt)
 
 Observação: o dataset utilizado neste tutorial foi baixado gratuitamente no site
